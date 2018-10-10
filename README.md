@@ -4,7 +4,7 @@ A node.js wrapper for the Benchmark Email API.
 
 _benchmarkemail-nodejs_ exposes the Benchmark Email API (Version 1.0) features of the Benchmark Email API to your node.js application.
  
-Further information on the Benchmark Email API and its features is available at [http://www.benchmarkemail.com/API/Doc](http://www.benchmarkemail.com/API/Doc)
+Further information on the Benchmark Email API and its features is available at [https://www.benchmarkemail.com/API/Doc](https://www.benchmarkemail.com/API/Doc)
 
 ## Setup
 
@@ -23,7 +23,7 @@ Please note that parts of _benchmarkemail-nodejs_ depend on [request](http://git
 
 ## How to use
 
-Information on how to use the Benchmark Email APIs can be found below. Further information on the API methods available can be found at [http://www.benchmarkemail.com/API/Doc](http://www.benchmarkemail.com/API/Doc). 
+Information on how to use the Benchmark Email APIs can be found below. Further information on the API methods available can be found at [https://www.benchmarkemail.com/API/Doc](https://www.benchmarkemail.com/API/Doc). 
 
 ### BenchmarkAPI
 
